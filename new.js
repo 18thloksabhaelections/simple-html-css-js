@@ -2,7 +2,7 @@
 /* code for button 1*/        
 document.getElementById("bone").addEventListener("click", function() {
     if (this.textContent === "INDI ALLIANCE") {
-        this.textContent = "It will happen in your dreams";
+        this.textContent = "ALL THE BEST..WE LOVE U GUYS!!";
         
 
     } else {
