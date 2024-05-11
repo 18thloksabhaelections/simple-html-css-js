@@ -1,0 +1,36 @@
+
+body {
+  background-color: blueviolet;
+}
+
+#bone {
+  background-color: green; 
+  color:maroon ;
+  padding: 10px 20px;
+  border:none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#btwo {
+  background-color: orange; 
+  color: maroon;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button {
+  margin-right: 20px;
+  margin-top:20px;
+}
+
+img {
+  height: 450px;
+  width: 480px;
+  border-radius: none;
+  margin-top: 40px;
+}
+
+
+
